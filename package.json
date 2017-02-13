@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JamesFHeath/bus-board/issues"
   },
-  "homepage": "https://github.com/JamesFHeath/bus-board#readme"
+  "homepage": "https://github.com/JamesFHeath/bus-board#readme",
+  "dependencies": {
+    "mongodb": "^2.2.23"
+  }
 }
